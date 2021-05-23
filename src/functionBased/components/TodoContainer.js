@@ -112,6 +112,7 @@ const TodoContainer = (props) => {
         <Route path="/about">
           <About />
         </Route>
+        {/* <Route path="/about" component={About} /> */}
         <Route path="*">
           <NotMatch />
         </Route>

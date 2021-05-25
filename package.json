@@ -2,7 +2,7 @@
   "name": "simple-todo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kyleheli.github.io/react_practice/",
+  "homepage": "https://kyleheli.github.io/react_practice",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
